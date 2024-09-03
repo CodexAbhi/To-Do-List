@@ -15,7 +15,7 @@ This project is a simple To-Do List application built using Python's Tkinter lib
 * Python 3.x
 * Tkinter library (usually included with Python)
 * Image files:
-    task.png
-    topbar.png
-    dock.png
+    task.png, 
+    topbar.png, 
+    dock.png,  
     delete.png
