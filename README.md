@@ -5,16 +5,16 @@ This project is a simple To-Do List application built using Python's Tkinter lib
 
 ## Features
 
-> Add Tasks: Users can add new tasks to the list.
-> Delete Tasks: Users can remove selected tasks from the list.
-> Persistent Storage: Tasks are saved in a tasklist.txt file, ensuring data persistence across sessions.
-> User-Friendly Interface: A simple and intuitive GUI using Tkinter with custom icons and images.
+* Add Tasks: Users can add new tasks to the list.
+* Delete Tasks: Users can remove selected tasks from the list.
+* Persistent Storage: Tasks are saved in a tasklist.txt file, ensuring data persistence across sessions.
+* User-Friendly Interface: A simple and intuitive GUI using Tkinter with custom icons and images.
 
 ## Requirements
 
-> Python 3.x
-> Tkinter library (usually included with Python)
-> Image files:
+* Python 3.x
+* Tkinter library (usually included with Python)
+* Image files:
     task.png
     topbar.png
     dock.png
